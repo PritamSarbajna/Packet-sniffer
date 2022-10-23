@@ -1,6 +1,14 @@
 # Packet-sniffer
 A simple packet sniffer using python.
 
+## options:
+
+  | *Flags*                          | *What they do*       |
+|--------------------------------------|---------------------------------------|
+| -h, --help                           | show this help message and exit       |
+| -v, --verbose                        | You can talk to me more               |
+| -i INTERFACE,  --interface INTERFACE | Please provide network interface name |
+
 ## Example Usage :
 
 ```
